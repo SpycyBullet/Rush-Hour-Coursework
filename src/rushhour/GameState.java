@@ -12,8 +12,6 @@ import java.io.PrintWriter;
 import java.lang.reflect.Type;
 import java.util.*;
 
-import javafx.util.Pair;
-import org.omg.Messaging.SYNC_WITH_TRANSPORT;
 import search.Action;
 import search.State;
 
